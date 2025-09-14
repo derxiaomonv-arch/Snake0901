@@ -1,6 +1,7 @@
 # 贪吃蛇游戏
 
 一个使用HTML5、CSS3和JavaScript构建的经典贪吃蛇游戏。
+目前为版本一，9.1完成
 
 ## 游戏特性
 
@@ -101,5 +102,9 @@ this.canvas = document.getElementById('gameCanvas');
 this.canvas.width = 400;
 this.canvas.height = 400;
 ```
+
+## 待改进点
+//速度控制
+
 
 享受游戏吧！
